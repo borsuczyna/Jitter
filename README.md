@@ -8,4 +8,4 @@ The only autor is borsuk (borsuk#2115), it's not using any Visual Scripting fram
 Download LOVE2D and run launcher.bat
 
 # Public use
-You can make your own version of it, but mentioning me as author, thanks 
+You can make your own version of it, but mind mentioning me as author, thanks 
