@@ -2,7 +2,7 @@
 MTA Visual Scripting
 
 # Authors
-The only autor is borsuk (borsuk#2115), it's not using any Visual Scripting framework, I've written it by myself.
+I am the only author of it, it's not using any Visual Scripting framework, I've written it by myself.
 
 # Usage
 Download LOVE2D and run launcher.bat
